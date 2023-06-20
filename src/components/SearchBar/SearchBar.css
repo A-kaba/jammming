@@ -1,0 +1,23 @@
+header{
+    background-color: navy;
+    padding: 10px;
+    margin-bottom: 10%;
+    color: aqua;
+
+}
+
+.search{
+ padding: 2%;
+ text-align: center;
+ width: 20%;
+ margin-bottom: 20px;
+}
+.btn{
+    padding: 10px 40px ;
+    border-radius: 20px;
+    background:navy;
+    color: aqua;
+    font-size: larger;
+    cursor: pointer;
+
+}
