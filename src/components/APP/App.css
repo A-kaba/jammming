@@ -15,7 +15,7 @@
 
 .App{
   background-image: url(./background_photo_desktop.jpg);
-  height: 100vh;
+  height: 100vh; 
 }
 
 .App-header {
