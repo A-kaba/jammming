@@ -21,6 +21,8 @@
 /* tracklist and track flex boxes */
 .track-box{
   display: flex;
+  width: 70%;
+  margin: 0 auto;
 }
 
 .App-header {
