@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import { SearchBar } from '../SearchBar/SearchBar';
+import { SearchResult } from '../SearchResult/SearchResult';
 
 function App() {
   return (
@@ -9,6 +10,11 @@ function App() {
         <h1>Jammming</h1>
       </header>
       <SearchBar />
+
+      <div className='track-box'>
+        <SearchResult />
+
+      </div>
     </div>
   );
 }

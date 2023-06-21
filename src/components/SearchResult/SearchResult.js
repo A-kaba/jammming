@@ -1,15 +1,15 @@
 import React from 'react';
 
-export const SaerchBar = ()=>{
+export const SearchResult = ()=>{
   return(
-    <>
-        <input placeholder='Enter a song title' className='search'/>
-        <br />
-        <button className='btn'>
-            Search
-        </button>
+    <div className='searchResult'>
+      <h1>Results</h1>
 
-    
-    </>
+      <h2></h2>
+
+      <p></p>
+
+    </div>
+  
   )
 }
